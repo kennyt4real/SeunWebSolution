@@ -1,0 +1,23 @@
+@media screen and (min-width: 1200px){
+    .site-header__branding {margin-top:-1.5em;}
+	.site-header__bottom.is-sticky .site-header__branding{margin-top:1rem;}
+}
+
+
+@media screen and (min-width: 768px){
+.expertise .two--columns ul li {
+	width: 100%;
+}
+.expertise .ten--columns ul li {
+	width: 33.33%;
+}
+
+}
+@media screen and (max-width: 960px){
+.site-header__branding{
+    width: 17.5rem;
+}
+    }
+
+
+.hero--main--centered h1.hero--main__title{text-align:center;}

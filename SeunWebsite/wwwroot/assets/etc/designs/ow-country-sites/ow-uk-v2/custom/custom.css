@@ -1,0 +1,318 @@
+.eight--columns .tiles .tile__title{
+    font-size: 1.9rem;
+}
+
+.hero--main__title {
+    margin: 2rem 0 3rem;
+}
+
+
+
+
+
+
+
+
+.hero--main__title, .hero--home__statement, .hero--main--left .hero--main__title, .hero--main--centered .hero--main__title, .hero__title, .hero--home__title, .hero--text__title{
+font-family:"Oswald" !important;
+font-weight: 500;
+text-transform: uppercase;
+}
+
+.tag, .tag--capability, .tag--in-the-news, .tag--industries, .tag--global, .tag--insights, .tag--journal, .tag--case-studies, .tag--initiative, .tag--culture, .tag--news, .tag--community, .tag--leadership, .tag--location, .tag--campus-event, .tag--event, .tag--career-profile, .tag--contact-us, .tag--our-values, .tag--awards, .tag--thought-leadership, .hero__tag, .tile__tag{
+font-family:"Oswald" !important;
+font-weight: 500;
+text-transform: uppercase;
+padding: 0.4rem 1rem;
+}
+
+.tile__title, .tile--homepage__title, .tiles-grid--more-events__title, .asides__title, .asides__title--culture, .text-module__header, .media-center-aggregator__intro__title, .hero--tiled__tile--large .hero--tiled__tile__text .hero__lead, .hero--tiled__tile__text .hero__lead {
+    font-family: "Oswald" !important;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.profile-links__header, .hero--main--profile__name, .tiles-grid--four-columns .tile__title, .tiles-grid--four-columns .tile--homepage__title, .tiles-grid--four-columns .tiles-grid--more-events__title, .hero--text__subtitle {
+font-family: "Oswald";
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.profile-links__header b, strong {
+    font-family: "Oswald";
+    font-weight: 500;
+}
+
+.hero--main__title {
+line-height: 1.1;
+}
+
+.hero--home__statement{
+font-size:30px;
+font-size:3rem;
+}
+
+.hero--home__title {
+    color: #fff;	
+   }
+
+.tag--capability{background:#000}
+.tag--in-the-news{background:#000}
+.tag--industries{background:#000}
+.tag--global{background:#000}
+.tag--insights{background:#000}
+.tag--journal{background:#000}
+.tag--case-studies{background:#000}
+.tag--initiative{background:#000}
+.tag--culture{background:#000}
+.tag--news{background:#000}
+.tag--community{background:#000}
+.tag--leadership{background:#000}
+.tag--location{background:#000}
+.tag--campus-event{background:#000}
+.tag--event{background:#000}
+.tag--career-profile{background:#000}
+.tag--contact-us{background:#000}
+.tag--our-values{background:#000}
+.tag--awards{background:#000}
+.tag--thought-leadership,.tag--thoughtleadership{background:#000}
+.tag--owblogs{background:#000}
+.hero__tag, .tile__tag{background: #000 !important}
+
+.media-center-aggregator__item--no-image .tag-wrapper,.media-center-aggregator__item--no-image .tag-wrapper--thought-leadership {background-color: #000;}
+
+.hero__tag, .tile__tag {background-color: #000;}
+
+.main-nav ul>li a, .site-header__alternative-navigation ul a {
+ text-transform: none;
+}
+
+.asides__title--culture {
+ color: #000;
+}
+
+.site-header__alternative-navigation ul a:hover{
+color:#fff;
+}
+@media screen and (min-width: 768px) {
+.main-nav ul>li a:hover {color:#3172f3 !important}
+.main-nav__dropdown-1 ul li a:hover{color:#3172f3 !important}
+}
+.main-nav {
+ background: #000;
+}
+
+.site-header__mobile-toggle.is-on {
+ background: #000 !important;
+}
+
+.main-nav__dropdown-1 {
+background: #252525;
+}
+
+.main-nav__dropdown-2 {
+background: #4a4a4a;
+}
+
+.search-box, .search-box--mobile {
+background: #000;
+}
+
+.search-box__button {
+background: #3172F3;
+}
+
+@media screen and (min-width: 960px) {
+.main-nav {background: none;}
+.main-nav__dropdown-1 {
+background: #000;
+}
+.main-nav__dropdown-2 {
+background: #252525;
+}
+}
+
+.tiles-grid__title {
+    font-family: Oswald;
+    font-weight: bold;
+    /*color: #F42638;*/
+    color: black;
+    font-size: 2.2rem;
+    letter-spacing: -0.5px;
+    padding-right: .4rem;
+    line-height: 1.1;
+    margin: 3rem 0 0 0;
+}
+
+
+@media screen and (min-width: 960px) {
+.tiles-grid__title {
+    font-size: 22px
+    font-size: 2.2rem
+}
+}
+.tiles-grid--four-columns p {
+    font-size: 30px;
+    font-size: 3rem;
+    line-height: 1.1;
+    width: 80%;
+}
+
+
+a, .breadcrumbs span a, .article__sidebar__links, #scrollUp{
+color: #3172F3;
+}
+
+a:hover, .article__sidebar__links:hover{color: #3172F3}
+
+.profile-links--team a .profile-links__profile-title,.profile-links--region-team a .profile-links__profile-title, .profile-links__name, .profile-links--video__title{
+color:#000
+}
+
+.theme--journal .profile-links--team a .profile-links__profile-title,.theme--journal .profile-links--region-team a .profile-links__profile-title, .theme--journal .profile-links__name, .theme--journal .profile-links--video__title{
+color:#fff
+}
+
+.theme--journal .social-share-icons a, .theme--journal .social-share-icons.color .social__facebook, .theme--journal .social-share-icons.color .social__twitter, .theme--journal .social-share-icons.color .social__linked-in {
+        color: #fff;
+    fill: #fff;
+        }
+
+.profile-links--team a:hover .profile-links__name,.profile-links--region-team a:hover .profile-links__name,.profile-links--team a:hover .profile-links--video__title,.profile-links--region-team a:hover .profile-links--video__title{
+color:#3172F;
+}
+
+.sticky-sidebar__nav ul .is-on {
+color: #3172F3;
+}
+
+.btn--main, .btn--inline, .btn--load-more, .btn--read-more, .btn--filters {
+background: #000;
+}
+
+.btn--main:hover, .btn--inline:hover, .btn--load-more:hover, .btn--read-more:hover, .btn--filters:hover {
+background: #3172F3;
+}
+
+.btn--download {
+background: #000;
+}
+.btn--download:hover {
+background: #3172F3;
+}
+
+.social-share-icons a,
+.social-share-icons.color .social__facebook,
+.social-share-icons.color .social__twitter,
+.social-share-icons.color .social__linked-in {
+color: #000;
+fill: #000;
+}
+.social-share-icons.social-share-icons li a:hover{color:#3172F3 !important;fill:#3172F3 !important}
+
+.article__header, 
+.article__header .article__header--light,
+.article__subheader,
+.article__subheader .article__subheader--blue,
+.article__highlight,
+.article__list-header,
+.text-module__header {
+color: #000;
+}
+
+.quote blockquote {color: #000}
+
+.article__row h3, .article__row--restrained h3, .impact-section__row h3, .article__row .tiles-grid__title, .article__row--restrained .tiles-grid__title, .impact-section__row .tiles-grid__title, .article__row .blog-feed__header, .article__row--restrained .blog-feed__header, .impact-section__row .blog-feed__header, .article__row .tile__title, .article__row--restrained .tile__title, .impact-section__row .tile__title, .article__row .tile--homepage__title, .article__row--restrained .tile--homepage__title, .impact-section__row .tile--homepage__title, .article__row .tiles-grid--more-events__title, .article__row--restrained .tiles-grid--more-events__title, .impact-section__row .tiles-grid--more-events__title, .article__row .hero--main__aside__header, .article__row--restrained .hero--main__aside__header, .impact-section__row .hero--main__aside__header, .article__row .article__header--light, .article__row--restrained .article__header--light, .impact-section__row .article__header--light, .article__row .article--sticky-nav__header, .article__row--restrained .article--sticky-nav__header, .impact-section__row .article--sticky-nav__header, .article__row .events-aggregator--featured__title, .article__row--restrained .events-aggregator--featured__title, .impact-section__row .events-aggregator--featured__title, .article__row .media-center-aggregator--awards__intro__title, .article__row--restrained .media-center-aggregator--awards__intro__title, .impact-section__row .media-center-aggregator--awards__intro__title {
+color: #000;
+}
+
+.theme--journal .article__header, .theme--journal .article__header .article__header--light, .theme--journal .article__subheader, .theme--journal .article__subheader .article__subheader--blue, .theme--journal .article__highlight, .theme--journal .article__list-header, .theme--journal .text-module__header {
+   color: #fff;
+}
+
+.impact-section--bg-image blockquote, .impactsection .article__header, .impactsection .article__header .article__header--light, .impactsection .article__subheader, .impactsection .article__subheader .article__subheader--blue, .impactsection .article__highlight, .impactsection .article__list-header, .impactsection .text-module__header {
+   color: #fff;
+}
+
+
+
+}
+.social-share-icons.social-share-icons li a:hover{color:#3172F3 !important;fill:#3172F3 !important}
+
+.article__header, 
+.article__header .article__header--light,
+.article__subheader,
+.article__subheader .article__subheader--blue,
+.article__highlight,
+.article__list-header,
+.text-module__header {
+color: #000;
+}
+
+.quote blockquote {color: #000}
+
+.article__row h3, .article__row--restrained h3, .impact-section__row h3, .article__row .tiles-grid__title, .article__row--restrained .tiles-grid__title, .impact-section__row .tiles-grid__title, .article__row .blog-feed__header, .article__row--restrained .blog-feed__header, .impact-section__row .blog-feed__header, .article__row .tile__title, .article__row--restrained .tile__title, .impact-section__row .tile__title, .article__row .tile--homepage__title, .article__row--restrained .tile--homepage__title, .impact-section__row .tile--homepage__title, .article__row .tiles-grid--more-events__title, .article__row--restrained .tiles-grid--more-events__title, .impact-section__row .tiles-grid--more-events__title, .article__row .hero--main__aside__header, .article__row--restrained .hero--main__aside__header, .impact-section__row .hero--main__aside__header, .article__row .article__header--light, .article__row--restrained .article__header--light, .impact-section__row .article__header--light, .article__row .article--sticky-nav__header, .article__row--restrained .article--sticky-nav__header, .impact-section__row .article--sticky-nav__header, .article__row .events-aggregator--featured__title, .article__row--restrained .events-aggregator--featured__title, .impact-section__row .events-aggregator--featured__title, .article__row .media-center-aggregator--awards__intro__title, .article__row--restrained .media-center-aggregator--awards__intro__title, .impact-section__row .media-center-aggregator--awards__intro__title {
+color: #000;
+}
+
+.hero--main__asides-group__title span {
+    font-family: "Oswald";
+    font-weight: 700;
+}
+
+.hero--main__asides-group__title {
+    font-family: "Oswald";
+}
+
+.tile--homepage__cta {
+color: #fff;
+}
+
+.media-center-aggregator__item--no-image .tag-wrapper, .media-center-aggregator__item--no-image .tag-wrapper--thought-leadership, .media-center-aggregator__item--no-image .tag-wrapper.tag--insights {
+    background-color: unset;
+}
+
+.media-center-aggregator__item--press-release__category {
+    color: #000;
+    font-family: "Oswald";
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.media-center-social-div .filter--media-center a {
+    color: #3172F3;
+}
+
+.hero--home__pager .bx-pager.bx-default-pager a {
+    background: #fff;
+}
+
+.btn--apply {
+    background: #000;
+}
+.btn--apply:hover {
+	background:#3172F3;
+}
+
+
+
+.site-header__alternative-navigation ul>li a:hover {
+color:#3172F3;
+}
+.button {
+
+    padding: 13px 0px;
+}
+
+.hero--main__asides-group a:hover {
+color: #fff}
+
+
+.site-footer--new__social.social a, .site-footer--new__social.social .social__facebook,
+.site-footer--new__social.social .social__twitter,
+.site-footer--new__social.social .social__linked-in {
+color: #fff;
+fill: #fff;
+}
+
+.twitter-feed, .news-feed,.expertise {display: none;}
